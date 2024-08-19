@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+h1{
+  color: rgb(158, 118, 57);
+}
+
+#root{
+ padding: 80px;
+
+}
