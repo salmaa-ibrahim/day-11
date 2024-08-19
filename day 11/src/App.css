@@ -44,3 +44,10 @@ a{
 a:hover{
     color: rgb(71, 89, 138);
 }
+
+@media only screen and(max-width:425px){
+    a{
+        color: red;
+    }
+}
+
